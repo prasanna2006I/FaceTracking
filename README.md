@@ -111,7 +111,7 @@ anchor.group.add(glasses.scene);
 <img width="1920" height="1080" alt="Screenshot 2025-10-07 094126" src="https://github.com/user-attachments/assets/8ac1b791-12e7-46e1-9210-1bdefa54012f" />
 
 
-![alt text](<Screenshot 2025-10-08 111118.png>)
+![WhatsApp Image 2025-11-18 at 18 30 09_9e00aa50](https://github.com/user-attachments/assets/40f7ea63-1595-4c6f-945b-f580daeb7e8e)
 
 ## RESULT:
 The system tracks the user’s face in real time and displays a face mask texture that moves along with the face.
